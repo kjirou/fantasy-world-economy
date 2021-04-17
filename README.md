@@ -1,1 +1,1 @@
-# micro-fantasy
+# fantasy-world-economy
